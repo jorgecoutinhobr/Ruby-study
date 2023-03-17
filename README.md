@@ -1,7 +1,7 @@
 # Ruby-study
 <h2>Curso de RUBY</h2>
-<p>Repositório criado com o objetivo de me organizar nos estudos. Estou cursando o 
-<a href="https://www.udemy.com/course/learn-to-code-with-ruby-lang">learn-to-code-with-ruby-lang</a>. As aulas são ministradas
+<p>Repositório criado com o objetivo de organizar os meus estudos. Estou cursando o 
+<a href="https://www.udemy.com/course/learn-to-code-with-ruby-lang">learn-to-code-with-ruby-lang</a>, as aulas são ministradas
 pelo <a href="https://paskhaver.github.io/#about-me">Boris Paskhaver.</a></p>
 </br>
 <h2>Commits</h2>    <a href=""></a>
