@@ -4,6 +4,6 @@ puts numbers
 
 print "===============\n"
 
-things = [1, true, "Jorge", 10.99]
+things = [1, true, "Jorge", 10.99] #teste
 puts things
 p things
