@@ -18,4 +18,5 @@ pelo <a href="https://paskhaver.github.io/#about-me">Boris Paskhaver.</a></p>
   <li>Décimo <a href="https://github.com/jorgecoutinhobr/Ruby-study/commit/fca533b303f683d38c8bd544dc09c4ed29d52ada" target="_blank"> commit</a> -> Referente a seção 10 do curso</li>
   <li>Décimo primeiro <a href="https://github.com/jorgecoutinhobr/Ruby-study/commit/15d42d6e5d8128a623b74b278d19219de5e7f6ac" target="_blank"> commit</a> -> Referente a seção 11 do curso</li>
   <li>Décimo segundo <a href="https://github.com/jorgecoutinhobr/Ruby-study/commit/6f0c1d0e541a91684fccbda62670f9a01037661c" target="_blank">commit</a> -> Referente as seções 13 e 14 do curso</li>
+  <li>Décimo terceiro <a href="https://github.com/jorgecoutinhobr/Ruby-study/commit/9b3c1751e79dfaceabc1d5ecfd15f88fe50c4026" target="_blank">commit</a> -> Referente as seções 12, 13 e 15 do curso</li>
  </ul>
